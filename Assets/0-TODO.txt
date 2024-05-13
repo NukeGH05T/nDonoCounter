@@ -1,0 +1,9 @@
+# Save the token from successful logins using PlayerPrefs and use that to login from then on.
+
+# Add a continuous login check screen for success/failure messages.
+
+# Create Chat Module prefab with user and msg as a singular entity.
+
+# Update the chat to spawn a Chat Module and populate chat window.
+
+# Add wiki on what "1. Request Token" button does and when to use "2. Connect" button.
